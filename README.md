@@ -10,7 +10,7 @@
 
 <div>
 <a href="https://github.com/luisasacramento">
-<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisasacramento&layout=compact&langs_count=7&theme=transparent&title_color=4a86d1"  alt="Most used languages"
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisasacramento&layout=compact&langs_count=7&theme=transparent&title_color=4a86d1"  alt="Most used languages"
              align="right">
 </div>
 
@@ -20,7 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
+
 </div>
           
           
