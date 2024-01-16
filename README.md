@@ -18,5 +18,7 @@
 
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-python-2-226051.png?f=webp&w=256" width="70" height="70" alt="Logo-Python"/>
    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/javascript-2752148-2284965.png?f=webp&w=256"  width="70" height="70"alt="Logo-JavaScript"/>
-  
+   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </section>
