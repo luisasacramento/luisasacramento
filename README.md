@@ -1,4 +1,4 @@
-<h1 align="center"> Luisa Santos </h1>
+<h1 align="center"> 👋 Luisa Santos </h1>
 
 
 <b >Software Engineering Student</b>
@@ -63,9 +63,8 @@ const luisaSantos = {
 </div>
 </td></tr></table>  
 
-<br>
-<br>
-<div>
-<a href="https://github.com/luisasacramento">
-<img loading="lazy" height="280" width="100%" align-items="stretch" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisasacramento&layout=compact&langs_count=7&theme=transparent&title_color=4a86d1"  alt="Most used languages" align="center">
+<div align="center">
+  <a href="https://github.com/luisasacramento">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisasacramento&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisasacramento&layout=compact&langs_count=7&theme=transparent"/>
 </div>
