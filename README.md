@@ -1,8 +1,6 @@
 <h1 align="center"> 👋 Luisa Santos </h1>
 
 
-<b >Software Engineering Student</b>
-
 ```javascript
 const luisaSantos = {
     name: "Luisa Santos",
