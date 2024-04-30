@@ -19,7 +19,7 @@ const luisaSantos = {
 <br>
 
 
-## 🧰 Toolbox 🧰
+## Toolbox 
 <table><tr><td valign="top" width="50%"> 
 
 ###  Frontend  
