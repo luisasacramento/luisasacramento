@@ -7,7 +7,6 @@ const luisaSantos = {
     location: "Brazil",
     role: "Infra intern @ Fiap",
     education: "Software Engineering @ Fiap 🎓",
-    loves: [ "Cloud ☁️", "Fullstack 🌐"],
     contact: {
         linkedin: "linkedin.com/in/luisacristinasantos",
         email: "luisacristina.sn@icloud.com", 
