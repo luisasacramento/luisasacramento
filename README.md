@@ -19,7 +19,7 @@ const luisaSantos = {
 
 
 ## Toolbox 
-<table><tr><td valign="top" width="50%"> 
+<table align="center"><tr><td valign="top" width=""> 
 
 ###  Frontend  
 <div align="center">  
@@ -29,10 +29,10 @@ const luisaSantos = {
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+ 
 
 </div>
-</td><td valign="top" width="50%">
+</td><td valign="top" width=""> 
 
 
 ###  Backend 
@@ -48,6 +48,6 @@ const luisaSantos = {
 
 <div align="center">
   <a href="https://github.com/luisasacramento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisasacramento&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisasacramento&layout=compact&langs_count=7&theme=transparent"/>
 </div>
