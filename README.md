@@ -17,7 +17,7 @@ const luisaSantos = {
 <br>
 <br>
 
-
+<!--
 ## Toolbox 
 <table align="center"><tr><td valign="top" width=""> 
 
@@ -51,3 +51,4 @@ const luisaSantos = {
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisasacramento&layout=compact&langs_count=7&theme=transparent"/>
 </div>
+-->
