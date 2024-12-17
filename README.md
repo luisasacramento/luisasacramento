@@ -44,11 +44,12 @@ const luisaSantos = {
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
 </div>
-</td></tr></table>  
+</td></tr></table>
+-->
 
 <div align="center">
   <a href="https://github.com/luisasacramento">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisasacramento&layout=compact&langs_count=7&theme=transparent"/>
 </div>
--->
+
