@@ -5,7 +5,7 @@
 const luisaSantos = {
     name: "Luisa Santos",
     location: "Brazil",
-    role: "Infra intern @ Fiap",
+    role: "Data Analytics @ Itaú",
     education: "Software Engineering @ Fiap 🎓",
     contact: {
         linkedin: "linkedin.com/in/luisacristinasantos",
