@@ -5,7 +5,7 @@
 const luisaSantos = {
     name: "Luisa Santos",
     location: "Brazil",
-    role: "Data Analytics @ Itaú",
+    role: "Dados | Engenharia de Analytics | Engenharia de Dados @ Itaú",
     education: "Software Engineering @ Fiap 🎓",
     contact: {
         linkedin: "linkedin.com/in/luisacristinasantos",
