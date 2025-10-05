@@ -2,8 +2,8 @@
 
 
 ```javascript
-const luisaSantos = {
-    name: "Luisa Santos",
+const luisaSacramento = {
+    name: "Luisa Sacramento",
     location: "Brazil",
     role: "Dados | Engenharia de Analytics | Engenharia de Dados @ Itaú",
     education: "Software Engineering @ Fiap 🎓",
